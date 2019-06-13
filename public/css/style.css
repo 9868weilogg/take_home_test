@@ -1,0 +1,138 @@
+body, html {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+.section1-div2{
+  padding-left: 100px;
+}
+a.nav-link{
+  color:black;
+}
+img {
+  display:block;
+  margin:auto;
+}
+.navbar.transparent.navbar-inverse .navbar-inner {
+  background-color: rgba(0,0,0,0.0);
+}
+.section1-div{
+  margin-left: 200px;
+  color:white;
+  width:200px;
+  padding-top:100px;
+}
+a.nav-a{
+  padding-left: 50px;
+  padding-top: 20px;
+  font-size:16pt;
+  font-weight:250;
+}
+.button-dark-orange{
+  background-color:#f65e44;
+  border:0px;
+  color:white;
+  font-family: 'Fjalla One', sans-serif;
+  border-bottom: 3px solid #a35900;
+}
+#section1{
+  background-image: url("../images/bg_header1.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#section2{
+  background:rgb(250,250,250);
+}
+.section2-div{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.section2-div > p{
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section2-div > h2{
+  color:#f65e44;
+  font-weight: 900;
+  font-size: 40pt;
+}
+div.text-center-title{
+  width:200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#section3{
+  background-image: url("../images/bg_hallofmeows.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section3-div{
+  padding: 50px 10px 50px 100px;
+}
+.section3-div > h2{
+  font-weight: 900;
+  font-size:40pt;
+}
+.img-thumbnail{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#section4{
+  background-image: url("../images/bg_adopting101.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
+.section4-div{
+  padding: 100px 300px;
+}
+.section4-div > h3{
+  font-size: 40pt;
+  font-weight: 900;
+}
+.section4-div > p, span.small{
+  color:rgb(175,165,255);
+}
+span.highlight{
+  color:#ffb302;
+}
+#section5{
+  background:rgb(16,8,56);
+}
+.section5-div{
+  color:white;
+  padding: 50px 100px;
+}
+.section5-left > h3{
+  color:white;
+  font-weight: 900;
+  font-size:50pt;
+}
+.section5-left > p{
+  color:#ffb302;
+}
+span.bold{
+  font-weight: 900;
+}
+.section5-div2{
+  border-top: 1px solid rgb(175,165,255);
+  color:rgb(175,165,255);
+  padding: 10px 200px 10px 10px;
+}
+.section5-div2 > p{
+  padding-top: 10px;
+}
+.section5-div3{
+  border-top: 1px solid rgb(175,165,255);
+  padding: 10px 100px;
+}
+.section5-div3 > a{
+  color:rgb(175,165,255);
+}
